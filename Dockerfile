@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER chen augus <tianhao.chen@gmail.com>
+MAINTAINER Chen Augus <tianhao.chen@gmail.com>
 
 RUN apk update && apk add openldap openldap-back-bdb openldap-clients
 
